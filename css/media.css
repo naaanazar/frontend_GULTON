@@ -15,6 +15,10 @@
       font-size: 24px;
    }
 
+    .form_div {
+        margin: -415px 100px 0px 100px!important;
+    }
+
 }
 
 @media (max-width: 1367px) {
@@ -45,6 +49,12 @@
    .mobile_twin .col:first-child{
       padding-top: 150px;
    }
+
+    .form_div {
+        margin: -300px 100px 0px 100px!important;
+    }
+
+
 
    /*----------------------------------FEATURES---------------------------------------------------------*/
 

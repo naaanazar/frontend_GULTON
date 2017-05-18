@@ -1,17 +1,52 @@
+/**
+*contact page
+ */
+
+.top_head_contact {
+    background-size: cover;
+    background-image: url("../img/contact/head_bagruond.png");
+
+}
+
+.hamburg_contact {
+    background: #ff22d0!important;
+}
+
+.hamburg_contact span{
+    background: #ffffff!important;
+}
+
+.img_holder_logo_contact h3 {
+    color:#000000!important;
+}
+.head .logo_contact p {
+    color:#000000!important;
+}
+
+
+
+/*content*/
+
 .form_div {
     background-color: rgba(255, 34, 208, 0.5);
-    border-radius: 70px;
-    padding-bottom: 50px;
-    padding-top: 50px;
     position: relative;
-    z-index: 999;
-    
+    z-index: 10;
+    border-radius: 70px;
+    padding: 130px 130px 90px 130px;
+    margin: -455px 100px 0px 100px;
 }
+
+.contact_form_left_block{
+    padding-right: 30px!important;
+}
+
+
+/*contacts inputs*/
 
 .contact_inp textarea {
     height: 310px;
     resize: none;
-
+    padding: 25px;
 }
 
 .contact_inp input, textarea {
@@ -21,10 +56,12 @@
     padding-left: 10px;
 }
 
- ::-webkit-input-placeholder {color:#313b47;}
- ::-moz-placeholder          {color:#313b47;}
-  :-moz-placeholder           {color:#313b47;}
- :-ms-input-placeholder      {color:#313b47;}
+.contact_inp input::-webkit-input-placeholder {color:#313b47;    font-family: "Helvetica Neue", Helvetica, sans-serif;}
+.contact_inp input::-moz-placeholder          {color:#313b47;    font-family: "Helvetica Neue", Helvetica, sans-serif;}
+.contact_inp input:-moz-placeholder           {color:#313b47;    font-family: "Helvetica Neue", Helvetica, sans-serif;}
+.contact_inp input:-ms-input-placeholder      {color:#313b47;    font-family: "Helvetica Neue", Helvetica, sans-serif;}
+
+textarea::-webkit-input-placeholder {  color: #313b47;}
 
 .contact_inp input:focus, textarea{
     border-bottom: 0px !important;
@@ -43,10 +80,7 @@
     color: #b9c4cd;
 }
 
-.contact_form_block{
-    padding: 50px 100px 10px 100px;
-}
-
+/*contact button*/
 .contact_button{
     margin-top:20px;
 }
@@ -62,5 +96,14 @@
 .contact_button button:hover{
     background-color: #5cacff;
 }
+
+/*footer*/
+.foot_img_contact {
+    background-image: url("../img/contact/footerbackground.png")!important;
+    top: 0px!important;
+    height: 60%!important;
+    margin-top: -260px;
+}
+
 
 

@@ -1,0 +1,51 @@
+@media (max-width:1440px) {
+   .top_head{
+      background-position: 0px -36px;
+   }
+
+   .top_slider .my_icons{
+      bottom: -10px;
+   }
+
+   .hunting h3{
+      font-size: 55px;
+   }
+
+   .hunting p{
+      font-size: 24px;
+   }
+
+}
+
+@media (max-width: 1367px) {
+
+/*----------------------------------FEATURES---------------------------------------------------------*/
+   /********header ***********/
+   .top_head{
+      background-size: initial;
+      min-height: 500px;
+   }
+
+    .hunting h3{
+        font-size:44px;
+    }
+
+    .speech span{
+        top: -14px;
+        /*left:0px;*/
+        font-size:100px;
+        /*right: 0;*/
+        /*margin-left: 8%;*/
+    }
+
+    .food_thought .right{
+         top: 300px;
+   }
+
+   .mobile_twin .col:first-child{
+      padding-top: 150px;
+   }
+
+   /*----------------------------------FEATURES---------------------------------------------------------*/
+
+}

@@ -2,14 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33da79db-c690-4dbe-9aa7-bf586c4a0374" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/owl.carousel.min.css" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/GLUTON.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/contact.css" afterPath="$PROJECT_DIR$/css/contact.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/media.css" afterPath="$PROJECT_DIR$/css/media.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/features.html" afterPath="$PROJECT_DIR$/features.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/script.js" afterPath="$PROJECT_DIR$/js/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/restaurant_2.css" afterPath="$PROJECT_DIR$/css/restaurant_2.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/restaurant_1.html" afterPath="$PROJECT_DIR$/restaurant_1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/restaurant_2.html" afterPath="$PROJECT_DIR$/restaurant_2.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,8 +29,8 @@
       <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -44,21 +46,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="media.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="media.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/media.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="163">
-              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+            <state relative-caret-position="901">
+              <caret line="53" column="30" lean-forward="false" selection-start-line="53" selection-start-column="30" selection-end-line="53" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="features.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="features.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/features.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1836">
-              <caret line="108" column="14" lean-forward="false" selection-start-line="54" selection-start-column="8" selection-end-line="108" selection-end-column="14" />
+            <state relative-caret-position="435">
+              <caret line="86" column="53" lean-forward="false" selection-start-line="86" selection-start-column="53" selection-end-line="86" selection-end-column="53" />
               <folding />
             </state>
           </provider>
@@ -67,8 +69,8 @@
       <file leaf-file-name="contact.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/contact.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="36" selection-end-column="1" />
+            <state relative-caret-position="544">
+              <caret line="56" column="30" lean-forward="false" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -101,8 +103,9 @@
       <list>
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/contact.html" />
-        <option value="$PROJECT_DIR$/css/contact.css" />
         <option value="$PROJECT_DIR$/css/media.css" />
+        <option value="$PROJECT_DIR$/css/contact.css" />
+        <option value="$PROJECT_DIR$/features.html" />
       </list>
     </option>
   </component>
@@ -134,7 +137,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -163,7 +166,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -259,18 +262,19 @@
       <workItem from="1495113266985" duration="1809000" />
       <workItem from="1495115104100" duration="2009000" />
       <workItem from="1495117134927" duration="1835000" />
-      <workItem from="1495119102436" duration="677000" />
+      <workItem from="1495119102436" duration="1810000" />
+      <workItem from="1495132376891" duration="235000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22380000" />
+    <option name="totallyTimeSpent" value="23748000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28304905" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28624734" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -676,34 +680,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/features.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1836">
-          <caret line="108" column="14" lean-forward="false" selection-start-line="54" selection-start-column="8" selection-end-line="108" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/contact.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="36" selection-end-column="1" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/media.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        <state relative-caret-position="901">
+          <caret line="53" column="30" lean-forward="false" selection-start-line="53" selection-start-column="30" selection-end-line="53" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/contact.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="56" column="30" lean-forward="false" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="86" column="53" lean-forward="false" selection-start-line="86" selection-start-column="53" selection-end-line="86" selection-end-column="53" />
           <folding />
         </state>
       </provider>

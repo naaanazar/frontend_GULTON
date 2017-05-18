@@ -1,0 +1,45 @@
+.is-page {
+    background-image: url("../img/main_top_back.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+}
+.is-page .top_head {
+    min-height: 220px !important;
+}
+
+.middle-block {
+    padding-top: 80px;
+    padding-bottom: 60px;
+}
+
+.boys {
+    margin-top: 200px;
+}
+
+.item {
+    color: white;
+    font-size: 58px;
+}
+
+.foot_img {
+    background-image: url("../img/botton_back.png");
+    height: 50%;
+    width: 100%;
+    background-size: cover;
+    min-height: 470px;
+}
+
+.ios_top_back {
+    background-image: url("../img/back_img_top.png");
+    height: 50%;
+    width: 100%;
+    background-size: cover;
+    min-height: 470px;
+
+}
+
+.iphone {
+    border-radius: 50px;
+}

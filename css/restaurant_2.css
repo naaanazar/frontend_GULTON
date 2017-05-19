@@ -29,6 +29,28 @@
     border-radius: 15px;
     width: 92%;
     float: right;
+    padding:50px 0 0 0;
+}
+
+.restr_1 .right-box .restr_contacts_right{
+   padding: 30px;
+   text-align: center;
+}
+
+.restr_1 .right-box .restr_contacts_right img{
+   max-width: 32%;
+   /*height: auto;*/
+   /*width: calc(100% / 3);*/
+}
+
+.right-box .restr_contacts_right .some_info{
+   /*margin-top: 15px;*/
+   font-size: 25px;
+}
+
+.right-box .restr_contacts_right .some_info+p{
+   text-align: right;
+   height: 15px;
 }
 
 .left-box .restr_contacts_left {
@@ -51,7 +73,7 @@ a {
 }
 
 .content-in-row {
-    padding: 20px 20px 20px 20px;
+    padding: 10px 20px 20px 20px;
 }
 .image-in-row {
     margin-top: 25px;
@@ -64,7 +86,7 @@ a {
 }
 
 .restr_img_inner{
-   margin-top: 20px;
+   margin-top: 10px;
 }
 
 .under-score {
@@ -155,6 +177,7 @@ table {
 .foot .logo p {
     text-align: center;
     font-size: 20px;
+    color: #313B47;
 }
 
 .foot_img .foot .hugger {
@@ -171,13 +194,13 @@ table {
 .img_holder_logo img {
     position: absolute;
     top: -20px;
-    right: -30px;
+    right: 10px;
     height: 70px;
     width: 70px;
 }
 
 .foot_img .foot .letter {
-    margin-top: 210px;
+    margin-top: 50px;
 }
 
 .foot_img .foot .letter p {
@@ -217,8 +240,11 @@ table {
     color: #fff;
 }
 
-.foot .img_holder_logo h3 {
+ .img_holder_logo h3 {
     color: #000;
+    text-align: center;
+    margin-bottom: 0px;
+    font-size: 75px;
 }
 
 .foot .img_holder_logo img {

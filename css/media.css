@@ -20,31 +20,56 @@
         margin: -415px 100px 0px 100px!important;
     }
 
+    .boys {
+       margin-top: 50px;
+      }
+
+      /**************home*********************************/
+      .home_top_store .l7{
+         padding: 350px 0px 0 130px;
+      }
+
 }
 
 @media (max-width: 1367px) {
 
 /*----------------------------------FEATURES---------------------------------------------------------*/
    /********header ***********/
+
+   .head {
+       padding: 20px 50px 0 50px;
+   }
+
    .top_head{
       background-size: initial;
       min-height: 500px;
+   }
+
+   .top_slider {
+       margin-top: 0px;
    }
 
     .hunting h3{
         font-size:44px;
     }
 
+    .hunting p{
+      font-size: 18px;
+       width: 90%;
+       margin: 0 auto;
+   }
+
+   .yel_img_inner img {
+       left: 2%;
+   }
+
     .speech span{
         top: -14px;
-        /*left:0px;*/
         font-size:100px;
-        /*right: 0;*/
-        /*margin-left: 8%;*/
     }
 
     .food_thought .right{
-         top: 300px;
+         top: 260px;
    }
 
    .mobile_twin .col:first-child{
@@ -56,8 +81,58 @@
         margin: -300px 100px 0px 100px!important;
     }
 
-
-
    /*----------------------------------FEATURES---------------------------------------------------------*/
+   /*------------------------------------CHARACTER (IOS)---------------*/
+   .about_food{
+      margin-top: 225px;
+   }
+
+   .about_food+img{
+      margin-top: 40px;
+   }
+
+   .is-page .boys{
+      margin-top: 0px;
+   }
+
+   .is-page .foot_img .foot .letter{
+      margin-top: 50px;
+   }
+
+
+   /*------------------------------- CONTACTS----------------------*/
+   .foot_img_contact{
+      margin-top: -190px!important;
+   }
+
+
+
+/*------------------restaurant 2----------*/
+.right-box .restr_contacts_right .some_info{
+   font-size: 18px;
+}
+
+
+
+.restaurant .foot_img .foot .letter {
+    margin-top: 50px;
+}
+
+
+
+
+/************************ABOUT ******************/
+.wrap_dowm .drop_backg img{
+   width: 120px;
+}
+
+.wrap_dowm .drop_backg{
+   background-position: -16px -12px;
+}
+
+.creative_right p:first-child{
+   margin-top: 85px;
+}
+
 
 }

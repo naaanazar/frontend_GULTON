@@ -29,11 +29,12 @@
 
 .lightSlider p {
     color: #fff;
-    font-size: 30px;
+    font-size: 60px;
     text-overflow: clip;
     height: 100%;
     width: 100%;
     padding: 20px 0px;
+    line-height: 1;
 }
 
 .lightSlider li {
@@ -179,7 +180,7 @@ html, body {
 
 .top_slider {
     position: relative;
-    margin-top: -235px;
+    margin-top: -185px;
 }
 
 .top_slider span {
@@ -328,14 +329,12 @@ html, body {
 }
 
 .mobile {
+   width: 100%;
+   /*height: 1000px;*/
     overflow: hidden;
-    background: -moz-linear-gradient(top, rgba(252, 157, 48, 1) 0%, rgba(251, 182, 62, 1) 44%, rgba(252, 205, 75, 1) 60%, rgba(252, 205, 75, 1) 100%);
-    background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(252, 157, 48, 1)), color-stop(44%, rgba(251, 182, 62, 1)), color-stop(60%, rgba(252, 205, 75, 1)), color-stop(100%, rgba(252, 205, 75, 1)));
-    background: -webkit-linear-gradient(top, rgba(252, 157, 48, 1) 0%, rgba(251, 182, 62, 1) 44%, rgba(252, 205, 75, 1) 60%, rgba(252, 205, 75, 1) 100%);
-    background: -o-linear-gradient(top, rgba(252, 157, 48, 1) 0%, rgba(251, 182, 62, 1) 44%, rgba(252, 205, 75, 1) 60%, rgba(252, 205, 75, 1) 100%);
-    background: -ms-linear-gradient(top, rgba(252, 157, 48, 1) 0%, rgba(251, 182, 62, 1) 44%, rgba(252, 205, 75, 1) 60%, rgba(252, 205, 75, 1) 100%);
-    background: linear-gradient(to bottom, rgba(252, 157, 48, 1) 0%, rgba(251, 182, 62, 1) 44%, rgba(252, 205, 75, 1) 60%, rgba(252, 205, 75, 1) 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fc9d30', endColorstr='#fccd4b', GradientType=0);
+    background-image: url(../img/features/features_mobile_backg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .mobile_speak {
@@ -343,7 +342,7 @@ html, body {
     width: 100%;
     height: 100%;
     background-image: url("../img/features/speech bubble.svg");
-    background-size: cover;
+    background-size: initial;
     background-repeat: no-repeat;
 }
 
@@ -467,14 +466,14 @@ html, body {
 .foot_img {
     position: relative;
     width: 100%;
-    height: 100%;
+    height: 466px;
     background-image: url("../img/foor_backgraund.svg");
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .features .foot_img {
-    top: -500px;
+    top: -465px;
 }
 
 .foot_img .foot {
@@ -499,6 +498,7 @@ html, body {
 .foot .logo p {
     text-align: center;
     font-size: 20px;
+    color: #313B47;
 }
 
 .foot_img .foot .hugger {
@@ -551,6 +551,8 @@ html, body {
 
 .foot .img_holder_logo h3 {
     color: #000;
+    text-align: center;
+    margin-bottom: 0px;
 }
 
 .foot .img_holder_logo img {
@@ -603,4 +605,143 @@ html, body {
 .foot .icons_foot .youtube:hover {
     background-color: transparent;
     border: 2px solid #CC202D;
+}
+
+/********************************** about.html*****************************************************/
+
+.about_page .about_top_back{
+   width: 100%;
+    /*height: 100%;*/
+    background-image: url(../img/about/purple_drip.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.about_page .head{
+   height: 300px;
+}
+
+.creative_right{
+   text-align: left;
+}
+
+.creative_right p:first-child{
+   font-family: Arial, sans-serif;
+   font-size: 13px;
+   font-weight: bold;
+   color: #7F7F7F;
+   margin-top: 290px;
+}
+
+.creative_right p:nth-child(2){
+   font-size: 21px;
+   font-family: Arial, sans-serif;
+   font-weight: 400;
+   margin: 55px 0 65px 0;
+}
+
+.creative_right span{
+   font-size: 36px;
+   font-weight: 400;
+   color: #FBB900;
+   margin-bottom: 110px;
+   display: inline-block;
+}
+
+.wrap_dowm .wrap_first{
+   width: 80%;
+   display: flex;
+   justify-content: space-around;
+   margin: 0 auto;
+}
+
+.wrap_dowm .wrap_sec{
+   width: 65%;
+   display: flex;
+   justify-content: space-between;
+   margin: 0 auto;
+}
+
+.wrap_dowm .drop_backg{
+   width: 220px;
+   height: 220px;
+   background-image: url(../img/about/faceholders/Group1.svg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: -15px -7px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-bottom: -30px;
+}
+
+.wrap_dowm .drop_2{
+   background-image: url(../img/about/faceholders/Group2.svg);
+}
+.wrap_dowm .drop_2{
+   background-image: url(../img/about/faceholders/Group3.svg);
+}
+.wrap_dowm .drop_2{
+   background-image: url(../img/about/faceholders/Group4.svg);
+}
+.wrap_dowm .drop_2{
+   background-image: url(../img/about/faceholders/Group5.svg);
+}
+.wrap_dowm .drop_2{
+   background-image: url(../img/about/faceholders/Group6.svg);
+}
+.wrap_dowm .drop_2{
+   background-image: url(../img/about/faceholders/Group7.svg);
+}
+
+.wrap_dowm .drop_backg img{
+   width: 134px;
+   /*height: 134px;*/
+}
+
+.wrap_dowm h4, .wrap_dowm  p{
+   margin: 0px;
+   text-align: center;
+}
+
+/********* footer********************/
+.about_page .foot_img{
+   background-image: url(../img/botton_back.png);
+    height: 50%;
+    width: 100%;
+    background-size: cover;
+    min-height: 500px;
+}
+
+
+/*********************************************************************************************************************************************************************** HOME PAGE****************************************/
+.home .head_main_backgr{
+   width: 100%;
+   height: 1200px;
+   background-image: url(../img/foot_head/1440-1290_head_back.png);
+   background-size: 100% auto;
+   background-repeat: no-repeat;
+}
+
+.home .top_head{
+   background-image: none;
+   min-height: 200px;
+}
+
+.home_top_store{
+   padding-top: 100px;
+}
+
+.home_top_store .l7{
+   padding: 440px 0px 0 130px;
+}
+
+.home_top_store p{
+   font-size: 27px;
+   color: #ffb900;
+   margin-bottom: 40px;
+}
+
+.home .top_phone_wrap{
+   text-align: center;
 }

@@ -72,9 +72,6 @@
     right: 0;
 }
 
-
-
-
 /**
 *buttons
  */
@@ -82,16 +79,18 @@
 .slider_button_container{
     position: relative;
 }
-.slider_right_button{
+
+.slider_left_button, .slider_right_button{
     position: absolute;
-    bottom: 210px;
+    bottom: 400px;
+    cursor: pointer;
+}
+.slider_right_button{
     margin-left: 149px;
     left: 50%;
 }
 
 .slider_left_button{
-    position: absolute;
-    bottom: 210px;
     margin-right: 149px;
     right: 50%;
 }

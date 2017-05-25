@@ -1,0 +1,33 @@
+*{
+    margin:0;
+    padding:0;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+}
+
+/************** fonts *********/
+.img_holder_logo h3{
+   /*font-family: 'geometry_soft_probold_n';*/
+}
+
+.navi li a{
+   font-family: 'sf_ui_bold';
+}
+
+.hunting p{
+   font-family: 'montserratmedium';
+}
+
+html, body{
+    width:100%;
+    height:100%;
+}
+/***********header*****************/
+
+.head_main_backgr{
+   width: 100%;
+   height: 100%;
+   background-image: url(../img/foot_head/1440-1290_head_back.png);
+   background-size: cover;
+}
